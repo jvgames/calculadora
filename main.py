@@ -5,3 +5,9 @@ operacao = input ("Informe a operacao(+ - */")
 
 if operacao == "+":
     print ("Resultado:", numero1 + numero2)
+if operacao == "+":
+    print ("Resultado:", numero1 - numero2)
+if operacao == "+":
+    print ("Resultado:", numero1 * numero2)
+if operacao == "+":
+    print ("Resultado:", numero1 / numero2)
